@@ -1,0 +1,428 @@
+_id,title,pageCount,publishedYear,status,authors
+1,Unlocking Android,416,2009,PUBLISH,"'W. Frank Ableson', 'Charlie Collins', 'Robi Sen'"
+2,"Android in Action, Second Edition",592,2011,PUBLISH,"'W. Frank Ableson', 'Robi Sen'"
+3,Specification by Example,287,2011,PUBLISH,'Gojko Adzic'
+4,Flex 3 in Action,576,2009,PUBLISH,"'Tariq Ahmed with Jon Hirschi', 'Faisal Abid'"
+5,Flex 4 in Action,600,2010,PUBLISH,"'Tariq Ahmed', 'Dan Orlando', 'John C. Bland II', 'Joel Hooks'"
+6,Collective Intelligence in Action,425,2008,PUBLISH,'Satnam Alag'
+7,Zend Framework in Action,432,2008,PUBLISH,"'Rob Allen', 'Nick Lo', 'Steven Brown'"
+8,Flex on Java,265,2010,PUBLISH,"'Bernerd Allmon', 'Jeremy Anderson'"
+9,Griffon in Action,375,2012,PUBLISH,"'Andres Almiray', 'Danno Ferrin', '', 'James Shingler'"
+10,OSGi in Depth,325,2011,PUBLISH,'Alexandre de Castro Alves'
+11,Flexible Rails,592,2008,PUBLISH,'Peter Armstrong'
+12,Hello! Flex 4,258,2009,PUBLISH,'Peter Armstrong'
+13,Coffeehouse,316,1997,PUBLISH,"'Levi Asher', 'Christian Crumlish'"
+14,Team Foundation Server 2008 in Action,344,2008,PUBLISH,'Jamil Azher'
+15,Brownfield Application Development in .NET,550,2010,PUBLISH,"'Kyle Baley', 'Donald Belcham'"
+16,MongoDB in Action,287,2011,PUBLISH,'Kyle Banker'
+17,Distributed Application Development with PowerBuilder 6.0,504,1998,PUBLISH,'Michael J. Barlotta'
+18,Jaguar Development with PowerBuilder 7,550,1999,PUBLISH,'Michael Barlotta'
+19,Taming Jaguar,362,2000,PUBLISH,"'Michael J. Barlotta', 'Jason R. Weiss'"
+20,3D User Interfaces with Java 3D,520,2000,PUBLISH,'Jon Barrilleaux'
+21,Hibernate in Action,400,2004,PUBLISH,"'Christian Bauer', 'Gavin King'"
+22,Hibernate in Action (Chinese Edition),400,1999,PUBLISH,"'Christian Bauer', 'Gavin King'"
+23,Java Persistence with Hibernate,880,2006,PUBLISH,"'Christian Bauer', 'Gavin King'"
+24,JSTL in Action,480,2002,PUBLISH,'Shawn Bayern'
+25,iBATIS in Action,384,2007,PUBLISH,"'Clinton Begin', 'Brandon Goodin', 'Larry Meadors'"
+26,Designing Hard Software,350,1997,PUBLISH,'Douglas W. Bennett'
+27,Hibernate Search in Action,488,2008,PUBLISH,"'Emmanuel Bernard', 'John Griffin'"
+28,jQuery in Action,376,2008,PUBLISH,"'Bear Bibeault', 'Yehuda Katz'"
+29,"jQuery in Action, Second Edition",488,2010,PUBLISH,"'Bear Bibeault', 'Yehuda Katz'"
+30,Building Secure and Reliable Network Applications,591,1996,PUBLISH,'Kenneth P. Birman'
+31,Ruby for Rails,532,2006,PUBLISH,'David A. Black'
+32,The Well-Grounded Rubyist,520,2009,PUBLISH,'David A. Black'
+33,Website Owner's Manual,296,2009,PUBLISH,'Paul A. Boag'
+34,ASP.NET 4.0 in Practice,504,2011,PUBLISH,"'Daniele Bochicchio', 'Stefano Mostarda', '', 'Marco De Sanctis'"
+35,Hello! Python,350,2012,PUBLISH,'Anthony Briggs'
+36,PFC Programmer's Reference Manual,368,1998,PUBLISH,'Richard Brooks'
+37,Graphics File Formats,484,1995,PUBLISH,"'C. Wayne Brown', 'Barry J. Shepherd'"
+38,Visual Object Oriented Programming,280,1995,PUBLISH,"'Margaret M. Burnett', 'Adele Goldberg', '', 'Ted G. Lewis'"
+39,iOS in Practice,325,2013,PUBLISH,'Bear P. Cahill'
+40,iPhone in Action,472,2008,PUBLISH,"'Christopher Allen', 'Shannon Appelcline'"
+41,Silverlight 2 in Action,400,2008,PUBLISH,"'Chad A. Campbell', 'John Stockton'"
+42,"The Quick Python Book, Second Edition",360,2010,PUBLISH,'Naomi R. Ceder'
+43,Internet and Intranet Applications with PowerBuilder 6,390,2000,PUBLISH,'Tom Cervenka'
+44,Practical Methods for Your Year 2000 Problem,236,1998,PUBLISH,'Robert Chapman'
+45,Mobile Agents,320,1997,PUBLISH,"'William R. Cockayne and Michael Zyda', 'editors'"
+46,Spring Dynamic Modules in Action,450,2010,PUBLISH,"'Arnaud Cogoluegnes', 'Thierry Templier', '', 'Andy Piper'"
+47,SQL Server 2008 Administration in Action,468,2009,PUBLISH,'Rod Colledge'
+48,Android in Practice,500,2011,PUBLISH,"'Charlie Collins', 'Michael D. Galpin', '', 'Matthias Kaeppler'"
+49,Object Oriented Perl,512,1999,PUBLISH,'Damian Conway'
+50,GWT in Practice,376,2008,PUBLISH,"'Robert Cooper', 'Charles Collins'"
+51,Ajax in Action,680,2005,PUBLISH,"'Dave Crane', 'Eric Pascarello with Darren James'"
+52,Ajax in Practice,536,2007,PUBLISH,"'Dave Crane', 'Jord Sonneveld and Bear Bibeault with Ted Goddard', 'Chris Gray', 'Ram Venkataraman', 'Joe Walker'"
+53,Prototype and Scriptaculous in Action,544,2007,PUBLISH,"'Dave Crane', 'Bear Bibeault with Tom Locke'"
+54,POJOs in Action,592,2006,PUBLISH,'Chris Richardson'
+55,Data Munging with Perl,304,2001,PUBLISH,'David Cross'
+56,Hello! HTML5 & CSS3,325,2012,PUBLISH,'Rob Crowther'
+57,Seam in Action,624,2008,PUBLISH,'Dan Allen'
+58,Wicket in Action,392,2008,PUBLISH,"'Martijn Dashorst', 'Eelco Hillenius'"
+59,Open Source SOA,448,2009,PUBLISH,'Jeff Davis'
+60,Struts 2 in Action,432,2008,PUBLISH,"'Donald Brown', 'Chad Michael Davis', '', 'Scott Stanlick'"
+61,Essential Guide to Peoplesoft Development and Customization,1101,2000,PUBLISH,"'Tony DeLia', 'Galina Landres', 'Isidor Rivera', 'Prakash Sankaran'"
+62,.NET Multithreading,360,2002,PUBLISH,'Alan Dennis'
+63,SCWCD Exam Study Kit Second Edition,560,2005,PUBLISH,"'Hanumant Deshmukh', 'Jignesh Malavia', '', 'Matthew Scarpino'"
+64,Spring Roo in Action,500,2012,PUBLISH,"'Ken Rimple', 'Srini Penchikala'"
+65,SOA Governance in Action,287,2012,PUBLISH,'Jos Dirksen'
+66,RSS and Atom in Action,400,2006,PUBLISH,'Dave Johnson'
+67,"LDAP Programming, Management and Integration",352,2002,PUBLISH,'Clayton Donley'
+68,Mule in Action,432,2009,PUBLISH,"'David Dossot', ""John D'Emic"""
+69,Java Foundation Classes,1088,2001,PUBLISH,"'Stephen C. Drye', 'William C. Wake'"
+70,Managing Components with Modeler,287,2005,PUBLISH,'Vikram Goyal'
+71,Command-line Processing with CLI,287,2005,PUBLISH,'Vikram Goyal'
+72,Understanding and Using Chain,287,2005,PUBLISH,'Vikram Goyal'
+73,Working with the Logging and Discovery Components,287,2005,PUBLISH,'Vikram Goyal'
+74,Uploading files with FileUpload,287,2005,PUBLISH,'Vikram Goyal'
+75,Handling Protocols with the Net Component,287,2005,PUBLISH,'Vikram Goyal'
+76,XML Parsing with Digester,287,2005,PUBLISH,'Vikram Goyal'
+77,JXPath and Betwixt: Working with XML,287,2005,PUBLISH,'Vikram Goyal'
+78,Validating Data with Validator,287,2005,PUBLISH,'Vikram Goyal'
+79,Enhancing Java Core Libraries with Collections,287,2005,PUBLISH,'Vikram Goyal'
+80,Enhancing Java Core Libraries with BeanUtils and Lang,287,2005,PUBLISH,'Vikram Goyal'
+81,Pool and DBCP: Creating and Using Object Pools,287,2005,PUBLISH,'Vikram Goyal'
+82,Python and Tkinter Programming,688,2000,PUBLISH,'John E. Grayson'
+83,Microsoft.NET for Programmers,386,2002,PUBLISH,'Fergal Grimes'
+84,Grails in Action,520,2009,PUBLISH,"'Glen Smith', 'Peter Ledbrook'"
+85,"Up to Speed with Swing, Second Edition",560,1999,PUBLISH,'Steven Gutz'
+86,OSGi in Action,576,2011,PUBLISH,"'Richard S. Hall', 'Karl Pauls', 'Stuart McCulloch', '', 'David Savage'"
+87,GWT in Action,632,2007,PUBLISH,"'Robert Hanson', 'Adam Tacy'"
+88,The Quick Python Book,444,1999,PUBLISH,"'Daryl Harms', 'Kenneth McDonald'"
+89,SharePoint 2010 Site Owner's Manual,300,2012,PUBLISH,'Yvonne M. Harryman'
+90,Java Development with Ant,672,2002,PUBLISH,"'Erik Hatcher', 'Steve Loughran'"
+91,Lucene in Action,456,2004,PUBLISH,"'Erik Hatcher', 'Otis Gospodnetic'"
+92,"Lucene in Action, Second Edition",532,2010,PUBLISH,"'Erik Hatcher', 'Otis Gospodnetic', '', 'Michael McCandless'"
+93,PowerBuilder 6.0 Questions & Answers,446,1998,PUBLISH,'Tim Hatton'
+94,The Awesome Power of PowerJ,378,1998,PUBLISH,'Tim Hatton'
+95,The Awesome Power of Power++,416,1998,PUBLISH,'Tim Hatton'
+96,Azure in Action,425,2010,PUBLISH,"'Chris Hay', 'Brian H. Prince'"
+97,Distributed Agile in Action,325,1645,UNPUBLISH,"'Vikas Hazrati', 'Balaji D Loganathan'"
+98,Metaprogramming in .NET,287,2012,PUBLISH,"'Kevin Hazzard', 'Jason Bock'"
+99,Portlets and Apache Portals,500,2005,PUBLISH,"'Stefan Hepper', 'Peter Fischer', 'Stephan Hesmer', 'Richard Jacob', 'David Sean Taylor'"
+100,Code Generation in Action,350,2003,PUBLISH,'Jack Herrington'
+101,Illustrated Guide to HTTP,400,1997,PUBLISH,'Paul S. Hethmon'
+102,Agile ALM,287,2011,PUBLISH,'Michael Hüttermann'
+103,"Java Network Programming, Second Edition",860,1999,PUBLISH,"'Merlin Hughes', 'Michael Shoffner', '', 'Derek Hamner'"
+104,Struts in Action,672,2002,PUBLISH,"'Ted N. Husted', 'Cedric Dumoulin', 'George Franciscus', 'David Winterfeldt'"
+105,Camel in Action,375,2011,PUBLISH,"'Claus Ibsen', 'Jonathan Anstey'"
+106,Taming Text,350,2012,PUBLISH,"'Grant S. Ingersoll', 'Thomas S. Morton', '', 'Andrew L. Farris'"
+107,JBoss in Action,496,2009,PUBLISH,"'Javid Jamae', 'Peter Johnson'"
+108,Gnuplot in Action,400,2009,PUBLISH,'Philipp K. Janert'
+109,Extending and Embedding Perl,384,2002,PUBLISH,"'Tim Jenness', 'Simon Cozens'"
+110,iOS 4 in Action,504,2011,PUBLISH,"'Jocelyn Harrington', 'Brandon Trebitowski', 'Christopher Allen', '', 'Shannon Appelcline'"
+111,Elements of Programming with Perl,368,1999,PUBLISH,'Andrew L. Johnson'
+112,Learn Windows PowerShell in a Month of Lunches,287,2011,PUBLISH,'Don Jones'
+113,R in Action,375,2011,PUBLISH,'Robert I. Kabacoff'
+114,SOA Security,512,2007,PUBLISH,"'Ramarao Kanneganti', 'Prasad A. Chodavarapu'"
+115,Rails 3 in Action,425,2011,PUBLISH,"'Ryan Bigg', 'Yehuda Katz'"
+116,Continuous Integration in .NET,328,2011,PUBLISH,"'Marcin Kawalerowicz', 'Craig Berntson'"
+117,Technology Paradise Lost,260,2004,PUBLISH,'Erik Keller'
+118,Kermit 95+,287,2003,PUBLISH,'Kermit Project at Columbia University'
+119,Laszlo in Action,552,2008,PUBLISH,"'Norman Klein', 'Max Carlson with Glenn MacEwen'"
+120,Groovy in Action,696,2007,PUBLISH,"'Dierk Koenig with Andrew Glover', 'Paul King', 'Guillaume Laforge', 'Jon Skeet'"
+121,"Groovy in Action, Second Edition",700,1645,UNPUBLISH,"'Dierk König', 'Guillaume Laforge', 'Paul King', 'Cédric Champeau', ""Hamlet D'Arcy"", 'Erik Pragt', '', 'Jon Skeet'"
+122,Object Technology Centers of Excellence,200,1996,PUBLISH,"'Timothy D. Korson', 'Vijay K. Vaishnavi'"
+123,Test Driven,544,2007,PUBLISH,'Lasse Koskela'
+124,Effective Unit Testing,350,2013,PUBLISH,'Lasse Koskela'
+125,Making Java Groovy,287,2013,PUBLISH,'Kenneth A. Kousen'
+126,The Awesome Power of Direct3D/DirectX,840,2002,PUBLISH,'Peter J. Kovach'
+127,Practical Software Requirements,448,1998,PUBLISH,'Benjamin L. Kovitz'
+128,NHibernate in Action,400,2009,PUBLISH,"'Pierre Henri Kuate', 'Tobin Harris', 'Christian Bauer', '', 'Gavin King'"
+129,Microsoft Reporting Services in Action,656,2004,PUBLISH,'Teo Lachev'
+130,AspectJ in Action,512,2003,PUBLISH,'Ramnivas Laddad'
+131,"AspectJ in Action, Second Edition",568,2009,PUBLISH,'Ramnivas Laddad'
+132,Hadoop in Action,325,2010,PUBLISH,'Chuck Lam'
+133,SQR in PeopleSoft and Other Applications,600,2003,PUBLISH,"'Galina', 'Vlad Landres'"
+134,"SQR in PeopleSoft and Other Applications, Second Edition",696,2003,PUBLISH,"'Galina Landres', 'Vlad Landres'"
+135,F# in Action,425,1645,UNPUBLISH,'Amanda Laucher'
+136,Tuscany SCA in Action,472,2011,PUBLISH,"'Simon Laws', 'Mark Combellack', 'Raymond Feng', 'Haleh Mahbod', 'Simon Nash'"
+137,Client/Server Yellow Pages,280,1995,PUBLISH,"'Compiled', 'introduced by Ted Lewis'"
+138,Object Oriented Application Frameworks,352,1995,PUBLISH,"'Ted Lewis', 'friends'"
+139,Tapestry in Action,580,2004,PUBLISH,'Howard M. Lewis Ship'
+140,WebWork in Action,400,2005,PUBLISH,"'Patrick Lightbody', 'Jason Carreira'"
+141,MacRuby in Action,287,2012,PUBLISH,"'Brendan G. Lim with Jerry Cheung', 'Jeremy McAnally'"
+142,Erlang and OTP in Action,500,2010,PUBLISH,"'Martin Logan', 'Eric Merritt', '', 'Richard Carlsson'"
+143,SharePoint 2007 Developer's Guide to Business Data Catalog,304,2009,PUBLISH,"'Brett Lonsdale', 'Nick Swan'"
+144,Doing IT Right,350,1995,PUBLISH,'Harold Lorin'
+145,Adobe AIR in Action,336,2008,PUBLISH,"'Joey Lott', 'Kathryn Rotondo', 'Sam Ahn', 'Ashley Atkins'"
+146,Ant in Action,600,2007,PUBLISH,"'Steve Loughran', 'Erik Hatcher'"
+147,Restlet in Action,450,2012,PUBLISH,"'Jerome Louvel', 'Thierry Boileau', '', 'Philippe Mougin'"
+148,iText in Action,688,2006,PUBLISH,'Bruno Lowagie'
+149,"iText in Action, Second Edition",600,2010,PUBLISH,'Bruno Lowagie'
+150,Power-3D,550,1997,PUBLISH,'Kyle Lussier'
+151,SNA and TCP/IP Enterprise Networking,540,1997,PUBLISH,"'Daniel C. Lynch', 'James P. Gray', 'and Edward Rabinovitch', 'editors'"
+152,Subversion in Action,356,2004,PUBLISH,'Jeffrey Machols'
+153,Minimal Perl,504,2006,PUBLISH,'Tim Maher'
+154,Distributed Programming with Java,320,1999,PUBLISH,'Qusay H. Mahmoud'
+155,Comprehensive Networking Glossary and Acronym Guide,208,1995,PUBLISH,'Gary Scott Malkin'
+156,JavaServer Faces in Action,744,2004,PUBLISH,'Kito D. Mann'
+157,LINQ in Action,576,2008,PUBLISH,"'Fabrice Marguerie', 'Steve Eichert', 'Jim Wooley'"
+158,Internet BBSs,400,1996,PUBLISH,'Richard Scott Mark'
+159,Algorithms of the Intelligent Web,368,2009,PUBLISH,"'Haralambos Marmanis', 'Dmitry Babenko'"
+160,JUnit in Action,384,2003,PUBLISH,'Vincent Massol with Ted Husted'
+161,Tika in Action,287,2011,PUBLISH,"'Chris A. Mattmann', 'Jukka L. Zitting'"
+162,Ruby in Practice,360,2009,PUBLISH,"'Jeremy McAnally', 'Assaf Arkin'"
+163,Inside LotusScript,420,1997,PUBLISH,'Joe McGinn'
+164,Maximum MIDI,450,1997,PUBLISH,'Paul Messick'
+165,Planning and Managing ATM Networks,320,1997,PUBLISH,"'Daniel Minoli', 'Thomas W. Golway', '', 'Norris P. Smith'"
+166,Client/Server Applications on ATM Networks,350,1997,PUBLISH,"'Daniel Minoli', 'Andrew Schmidt'"
+167,JavaFX in Action,373,2009,PUBLISH,'Simon Morris'
+168,Entity Framework 4 in Action,576,2011,PUBLISH,"'Stefano Mostarda', 'Marco De Sanctis', '', 'Daniele Bochicchio'"
+169,ASP.NET 2.0 Web Parts in Action,344,2006,PUBLISH,'Darren Neimke'
+170,Sass and Compass in Action,300,2013,PUBLISH,"'Wynn Netherland', 'Nathan Weizenbaum', 'Chris Eppstein', '', 'Brandon Mathis'"
+171,Core OWL 5.0,500,1997,PUBLISH,'Ted Neward'
+172,Advanced OWL 5.0,570,1998,PUBLISH,'Ted Neward'
+173,Server-Based Java Programming,592,2000,PUBLISH,'Ted Neward'
+174,SQL Server MVP Deep Dives,848,2009,PUBLISH,"'Contributions from 53 SQL Server MVPs', 'Edited by Paul Nielsen', 'Kalen Delaney', 'Greg Low', 'Adam Machanic', 'Paul S. Randal', '', 'Kimberly L. Tripp'"
+175,PostGIS in Action,325,2011,PUBLISH,"'Regina O. Obe', 'Leo S. Hsu'"
+176,Programming Mac OS X,384,2003,PUBLISH,"""Kevin O'Malley"""
+177,The Art of Unit Testing,320,2009,PUBLISH,'Roy Osherove'
+178,Mahout in Action,375,2011,PUBLISH,"'Sean Owen', 'Robin Anil', 'Ted Dunning', '', 'Ellen Friedman'"
+179,ASP.NET MVC in Action,392,2009,PUBLISH,"'Jeffrey Palermo', 'Ben Scheirman', '', 'Jimmy Bogard'"
+180,ASP.NET MVC 2 in Action,432,2010,PUBLISH,"'Jeffrey Palermo', 'Ben Scheirman', 'Jimmy Bogard', 'Eric Hexter', '', 'Matthew Hinze'"
+181,ASP.NET MVC 4 in Action,450,2012,PUBLISH,"'Jeffrey Palermo', 'Jimmy Bogard', 'Eric Hexter', 'Matthew Hinze', '', 'Jeremy Skinner'"
+182,EJB 3 in Action,712,2007,PUBLISH,"'Debu Panda', 'Reza Rahman', 'Derek Lane'"
+183,"EJB 3 in Action, Second Edition",287,2014,PUBLISH,"'Debu Panda', 'Reza Rahman', 'Ryan Cuprak', '', 'Michael Remijan'"
+184,Explorer's Guide to the Semantic Web,304,2004,PUBLISH,'Thomas B. Passin'
+185,Practical LotusScript,512,1999,PUBLISH,'Anthony Patton'
+186,Domino Development with Java,467,2000,PUBLISH,'Anthony Patton'
+187,Windows PowerShell in Action,576,2007,PUBLISH,'Bruce Payette'
+188,"Windows PowerShell in Action, Second Edition",700,2011,PUBLISH,'Bruce Payette'
+189,"Silverlight 4 in Action, Revised Edition",425,2010,PUBLISH,'Pete Brown'
+190,Silverlight 5 in Action,925,2012,PUBLISH,'Pete Brown'
+191,Hibernate Quickly,456,2005,PUBLISH,"'Patrick Peak', 'Nick Heudecker'"
+192,Generative Art,287,2011,PUBLISH,'Matt Pearson'
+193,Windows Phone 7 in Action,287,2012,PUBLISH,"'Timothy Binkley-Jones', 'Massimo Perga', '', 'Michael Sync'"
+194,Lift in Action,450,2011,PUBLISH,'Timothy Perrett'
+195,Web Development with Apache and Perl,424,2002,PUBLISH,'Theo Petersen'
+196,Real-World Functional Programming,560,2009,PUBLISH,'Tomas Petricek with Jon Skeet'
+197,Machine Learning in Action,287,2012,PUBLISH,'Peter Harrington'
+198,Dependency Injection,352,2009,PUBLISH,'Dhanji R. Prasanna'
+199,Understanding Enterprise SOA,280,2005,PUBLISH,"'Eric Pulier and Hugh Taylor', 'Foreword by Paul Gaffney'"
+200,Open-Source ESBs in Action,528,2008,PUBLISH,"'Tijs Rademakers', 'Jos Dirksen'"
+201,Activiti in Action,287,2012,PUBLISH,'Tijs Rademakers'
+202,DSLs in Boo: Domain-Specific Languages in .NET,352,2010,PUBLISH,'Oren Eini writing as Ayende Rahien'
+203,JUnit Recipes,752,2004,PUBLISH,'J. B. Rainsberger with contributions by Scott Stirling'
+204,wxPython in Action,620,2006,PUBLISH,"'Noel Rappin', 'Robin Dunn'"
+205,Clojure in Action,475,2011,PUBLISH,'Amit Rathore'
+206,Scala in Action,287,2013,PUBLISH,'Nilanjan Raychaudhuri'
+207,Working with Objects,420,1995,PUBLISH,'Trygve Reenskaug'
+208,PHP in Action,552,2007,PUBLISH,"'Dagfinn Reiersøl with Marcus Baker', 'Chris Shiflett'"
+209,Secrets of the JavaScript Ninja,300,2012,PUBLISH,'John Resig'
+210,Microsoft Office Essentials,480,1996,PUBLISH,'Ronny Richardson'
+211,Swing,287,1999,PUBLISH,"'Matthew Robinson', 'Pavel Vorobiev'"
+212,Swing Second Edition,912,2003,PUBLISH,unknown
+213,The Awesome Power of Java Beans,500,1998,PUBLISH,'Lawrence H. Rodrigues'
+214,Personal Videoconferencing,420,1996,PUBLISH,'Evan Rosen'
+215,The Cloud at Your Service,200,2010,PUBLISH,"'Jothy Rosenberg', 'Arthur Mateos'"
+216,Implementing Elliptic Curve Cryptography,330,1998,PUBLISH,'Michael Rosing'
+217,SOA Patterns,250,2012,PUBLISH,'Arnon Rotem-Gal-Oz'
+218,Hello World!,432,2009,PUBLISH,"'Warren D. Sande', 'Carter Sande'"
+219,SCBCD Exam Study Kit,488,2005,PUBLISH,'Paul Sanghera'
+220,Portlets in Action,475,2011,PUBLISH,'Ashish Sarin'
+221,SWT/JFace in Action,496,2004,PUBLISH,"'Matthew Scarpino', 'Stephen Holder', 'Stanford Ng', '', 'Laurent Mihalkovic'"
+222,OpenCL in Action,287,2011,PUBLISH,'Matthew Scarpino'
+223,Multiprotocol over ATM,341,1998,PUBLISH,"'Andrew Schmidt', 'Daniel Minoli'"
+224,Dependency Injection in .NET,375,2011,PUBLISH,'Mark Seemann'
+225,Java 3D Programming,400,2002,PUBLISH,'Daniel Selman'
+226,Liferay in Action,375,2011,PUBLISH,"'Richard Sezov', 'Jr'"
+227,JSP Tag Libraries,656,2001,PUBLISH,"'Gal Shachor', 'Adam Chace', 'Magnus Rydin'"
+228,Instant Messaging in Java,402,2002,PUBLISH,'Iain Shigeoka'
+229,Java Applets and Channels Without Programming,372,1999,PUBLISH,"'Ronny Richardson', 'Michael Shoffner', 'Marq Singer', 'Bruce Murray', '', 'Jack Gambol'"
+230,PowerShell in Practice,500,2010,PUBLISH,'Richard Siddaway'
+231,PowerShell and WMI,287,2012,PUBLISH,'Richard Siddaway'
+232,Making Sense of Java,180,1996,PUBLISH,"'Bruce Simpson', 'John Mitchell', 'Brian Christeson', 'Rehan Zaidi', '', 'Jonathan Levine'"
+233,C++/CLI in Action,416,2007,PUBLISH,'Nishant Sivakumar'
+234,C# in Depth,424,2008,PUBLISH,'Jon Skeet'
+235,"C# in Depth, Second Edition",584,1645,PUBLISH,'Jon Skeet'
+236,Magical A-Life Avatars,450,2000,PUBLISH,'Peter Small'
+237,Becoming Agile,408,2009,PUBLISH,"'Greg Smith', 'Ahmed Sidky'"
+238,ActiveMQ in Action,408,2011,PUBLISH,"'Bruce Snyder', 'Dejan Bosanac', '', 'Rob Davies'"
+239,Implementing PeopleSoft Financials,220,1997,PUBLISH,'Early Stephens'
+240,SQL Server DMVs in Action,352,2011,PUBLISH,'Ian W. Stirk'
+241,Scala in Depth,287,2012,PUBLISH,'Joshua D. Suereth'
+242,JMX in Action,424,2002,PUBLISH,"'Benjamin G. Sullins', 'Mark B. Whipple'"
+243,EJB Cookbook,352,2003,PUBLISH,"'Benjamin G. Sullins', 'Mark B. Whipple'"
+244,"GWT in Action, Second Edition",287,2013,PUBLISH,"'Adam Tacy', 'Robert Hanson', 'Jason Essington', '', 'Anna Tökke'"
+245,"JUnit in Action, Second Edition",504,2010,PUBLISH,"'Petar Tahchiev', 'Felipe Leme', 'Vincent Massol', '', 'Gary Gregory'"
+246,Bitter Java,368,2002,PUBLISH,'Bruce A. Tate'
+247,Bitter EJB,440,2003,PUBLISH,"'Bruce Tate', 'Mike Clark', 'Bob Lee', 'Patrick Linskey'"
+248,Spring Batch in Action,287,2011,PUBLISH,"'Arnaud Cogoluegnes', 'Thierry Templier', 'Gary Gregory', 'Olivier Bazoud'"
+249,JDK 1.4 Tutorial,408,2002,PUBLISH,'Gregory M. Travis'
+250,iPhone and iPad in Action,450,2010,PUBLISH,"'Brandon Trebitowski', 'Christopher Allen', '', 'Shannon Appelcline'"
+251,SQL Server 2005 Reporting Services in Action,600,2006,PUBLISH,'Bret Updegraff'
+252,Ten Years of UserFriendly.Org,1096,2008,PUBLISH,"'JD ""Illiad"" Frazer'"
+253,Graphics Programming with Perl,328,2002,PUBLISH,'Martien Verbruggen'
+254,RabbitMQ in Action,287,2012,PUBLISH,"'Alvaro Videla', 'Jason J.W. Williams'"
+255,XDoclet in Action,624,2003,PUBLISH,"'Craig Walls', 'Norman Richards'"
+256,Spring in Action,472,2005,PUBLISH,"'Craig Walls', 'Ryan Breidenbach'"
+257,"Spring in Action, Second Edition",768,2007,PUBLISH,'Craig Walls with Ryan Breidenbach'
+258,"Spring in Action, Third Edition",424,2011,PUBLISH,'Craig Walls'
+259,Spring in Practice,600,2013,PUBLISH,'Willie Wheeler with Joshua White'
+260,Java 2 Micro Edition,504,2002,PUBLISH,"'James P. White', 'David A. Hemphill'"
+261,SharePoint 2010 Workflows in Action,360,2011,PUBLISH,'Phil Wicklund'
+262,SharePoint 2010 Web Parts in Action,448,2011,PUBLISH,'Wictor Wilén'
+263,C++ Concurrency in Action,325,2012,PUBLISH,'Anthony Williams'
+264,Java Servlets by Example,550,2002,PUBLISH,'Alan R. Williamson'
+265,XML Programming with VB and ASP,320,1999,PUBLISH,"'Mark Wilson', 'Tracey Wilson'"
+266,Oracle8i Database Administration,543,1999,PUBLISH,'Noel Yuhanna'
+267,The Engaging Web,325,1645,UNPUBLISH,"'Gabe Zichermann', 'Chris Cunningham'"
+268,Enterprise OSGi In Action,287,1645,PUBLISH,"'Holly Cummins', 'Timothy Ward'"
+269,"Ext JS in Action, Second Edition",287,2014,PUBLISH,"'Jesus Garcia', 'Grgur Grisogono', '', 'Jacob K. Andresen'"
+270,"Android in Action, Third Edition",287,2011,PUBLISH,"'W. Frank Ableson', 'Robi Sen', 'Chris King', 'C. Enrique Ortiz'"
+271,Arduino in Action,300,2013,PUBLISH,"'Martin Evans', 'Joshua Noble', '', 'Jordan Hochenbaum'"
+272,Node.js in Action,300,2013,PUBLISH,"'Mike Cantelon', 'Marc Harter', 'T.J. Holowaychuk', '', 'Nathan Rajlich'"
+273,Third-Party JavaScript ,287,2013,PUBLISH,"'Ben Vinegar', 'Anton Kovalyov'"
+274,Multimedia Computing,287,1993,PUBLISH,'Matthew E. Hodges'
+275,Web Development with JavaServer Pages,287,2000,PUBLISH,"'Duane K. Fields', 'Mark A. Kolb'"
+276,Up to Speed with Swing,287,1998,PUBLISH,'Steven J. Gutz'
+277,Manager's Guide to Open Source,287,2004,PUBLISH,'Maria Winslow'
+278,Programming Web Services with Java,287,2002,PUBLISH,'Ajamu A. Wesley'
+279,TCP/IP Programming for OS/2,287,1996,PUBLISH,'Steven J. Gutz'
+280,"Implementing SAP R/3, Second Edition",287,1997,PUBLISH,unknown
+281,Implementing SAP R/3,287,1996,PUBLISH,unknown
+282,Using C-Kermit: Communication Software,287,1645,PUBLISH,unknown
+283,SCWCD Exam Study Kit,287,2002,PUBLISH,"'Hanumant Deshmukh', 'Jignesh Malavia'"
+284,Unit Testing in C++,287,1645,PUBLISH,"'Bruce Trask', 'Angel Roman'"
+285,Big Data,287,1645,UNPUBLISH,"'Nathan Marz', 'James Warren'"
+286,CoffeeScript in Action,287,2014,PUBLISH,'Patrick Lee'
+287,"SQL Server MVP Deep Dives, Volume 2",750,2011,PUBLISH,"'Kalen Delaney', 'Louis Davidson', 'Greg Low', 'Brad McGehee', 'Paul Nielsen', 'Paul Randal', '', 'Kimberly Tripp'"
+288,HTML5 in Action,375,2014,PUBLISH,"'Rob Crowther', 'Joe Lennon', 'Ash Blue', '', 'Greg Wanish'"
+289,"Java Persistence with Hibernate, Second Edition",287,1645,UNPUBLISH,"'Christian Bauer', 'Gavin King', '', 'Gary Gregory'"
+290,Hadoop in Practice,287,2012,PUBLISH,'Alex Holmes'
+291,HBase in Action,287,2012,PUBLISH,"'Nicholas Dimiduk', 'Amandeep Khurana'"
+292,Flex Mobile in Action,287,2012,PUBLISH,'Jonathan Campos'
+293,HTML5 for .NET Developers,287,2012,PUBLISH,"'Jim Jackson', 'II', 'Ian Gilman'"
+294,50 Android Hacks,287,2013,PUBLISH,'Carlos M. Sessa'
+295,PowerShell in Depth,287,2013,PUBLISH,"'Don Jones', 'Richard Siddaway', '', 'Jeffery Hicks'"
+296,Augmented Reality Revealed,287,1645,UNPUBLISH,'Robert A. Rice Jr.'
+297,Building Well-Structured JavaScript Applications,287,1645,UNPUBLISH,'Julio C. Ody'
+298,Linked Data,287,2013,PUBLISH,"'David Wood', 'Marsha Zaidman', 'Luke Ruth', 'with Michael Hausenblas'"
+299,"Mule in Action, Second Edition",287,2014,PUBLISH,"'David Dossot', ""John D'Emic"", '', 'Victor Romero'"
+300,Single Page Web Applications,287,2013,PUBLISH,"'Michael S. Mikowski', 'Josh C. Powell'"
+301,"The Art of Unit Testing, Second Edition",287,2013,PUBLISH,'Roy Osherove'
+302,Play for Java,287,2014,PUBLISH,"'Nicolas Leroux', 'Sietse de Kaper'"
+303,Hello World! Second Edition,287,2013,PUBLISH,"'Warren Sande', 'Carter Sande'"
+304,Dart in Action,287,2012,PUBLISH,'Chris Buckett'
+305,Redis in Action,287,2013,PUBLISH,'Josiah Carlson'
+306,Using the TI-83 Plus/TI-84 Plus,287,2013,PUBLISH,'Christopher R. Mitchell'
+307,Neo4j in Action,287,1645,UNPUBLISH,"'Jonas Partner', 'Aleksa Vukotic', '', 'Nicki Watt'"
+308,Programming the TI-83 Plus/TI-84 Plus,287,2012,PUBLISH,'Christopher R. Mitchell'
+309,Functional Programming in Scala,287,1645,UNPUBLISH,"'Paul Chiusano', 'Rúnar Bjarnason'"
+310,Play for Scala,287,2013,PUBLISH,"'Peter Hilton', 'Erik Bakker', '', 'Francisco Canedo'"
+311,Node.js in Practice,287,1645,UNPUBLISH,"'Alex Young', 'Marc Harter'"
+312,SonarQube in Action,287,2013,PUBLISH,"'G. Ann Campbell', 'Patroklos P. Papapetrou'"
+313,Windows Store App Development: C# and XAML,287,2013,PUBLISH,'Peter M. Brown'
+314,Learn Windows IIS in a Month of Lunches,287,2013,PUBLISH,'Jason C. Helmick'
+315,Mondrian in Action,287,1645,PUBLISH,"'William Back', 'Nicholas Goodman', '', 'Julian Hyde'"
+316,RabbitMQ in Depth,287,1645,UNPUBLISH,'Gavin M. Roy'
+317,Akka in Action,287,1645,UNPUBLISH,"'Raymond Roestenburg', 'Rob Bakker', 'Rob Williams', 'Steven Haines'"
+318,Extending jQuery,287,2013,PUBLISH,'Keith B. Wood'
+319,OCA Java SE 7 Programmer I Certification Guide,287,2013,PUBLISH,'Mala Gupta'
+320,Kanban in Action,287,2014,PUBLISH,"'Marcus Hammarberg', 'Joakim Sunden'"
+321,Solr in Action,287,2014,PUBLISH,"'Trey Grainger', 'Timothy Potter'"
+322,Making Sense of NoSQL,287,2013,PUBLISH,"'Daniel G. McCreary', 'Ann M. Kelly'"
+323,"Grails in Action, Second Edition",287,1645,UNPUBLISH,"'Glen Smith', 'Peter Ledbrook'"
+324,Rails 4 in Action,287,1645,UNPUBLISH,"'Ryan Bigg', 'Yehuda Katz', 'and Steve Klabnik', ''"
+325,"Learn Windows PowerShell in a Month of Lunches, Second Edition",287,2012,PUBLISH,"'Don Jones', 'Jeffery D. Hicks'"
+326,AOP in .NET,287,2013,PUBLISH,'Matthew D. Groves'
+327,Learn PowerShell Toolmaking in a Month of Lunches,287,2012,PUBLISH,"'Don Jones', 'Jeffery Hicks'"
+328,CMIS and Apache Chemistry in Action,287,1645,PUBLISH,"'Florian Müller', 'Jay Brown', 'Jeff Potts'"
+329,Action Guide (aka VB .NET),287,1645,PUBLISH,'Paul Messick'
+330,Learn Active Directory Management in a Month of Lunches,287,1645,PUBLISH,'Richard Siddaway'
+331,"Spring in Action, Fourth Edition",287,1645,UNPUBLISH,'Craig Walls'
+332,The Mikado Method,287,2014,PUBLISH,"'Ola Ellnestam', 'Daniel Brolund'"
+333,The Responsive Web,287,1645,UNPUBLISH,'Matthew Carver'
+334,Fast ASP.NET Websites,287,2013,PUBLISH,'Dean Alan Hume'
+335,SBT in Action,287,1645,UNPUBLISH,"'Joshua Suereth', 'Matthew Farwell'"
+336,PowerShell Deep Dives,287,1645,PUBLISH,"'Edited by Jeffery Hicks', 'Richard Siddaway', 'Oisin Grehan', '', 'Aleksandar Nikolic'"
+337,Gradle in Action,287,2014,PUBLISH,'Benjamin Muschko'
+338,Scalatra in Action,287,1645,UNPUBLISH,"'Ivan Porto Carrero', 'Ross A. Baker', 'Dave Hrycyszyn', 'Stefan Ollinger', '', 'Jared Armstrong'"
+339,AngularJS in Action,287,1645,UNPUBLISH,"'Brian Ford', 'Lukas Ruebbelke'"
+340,Software Development Metrics,287,1645,UNPUBLISH,'David Nicolette'
+341,F# Deep Dives,287,1645,UNPUBLISH,"'Tomas Petricek', 'Phillip Trelford'"
+342,"C# in Depth, Third Edition",287,2013,PUBLISH,'Jon Skeet'
+343,"PostGIS in Action, Second Edition",287,1645,UNPUBLISH,"'Regina Obe', 'Leo Hsu'"
+344,"R in Action, Second Edition",287,1645,UNPUBLISH,'Robert Kabacoff'
+345,"The Joy of Clojure, Second Edition",287,2014,PUBLISH,"'Michael Fogus', 'Chris Houser'"
+346,iOS 7 in Action,287,2014,PUBLISH,"'Brendan G. Lim', 'Martin Conte Mac Donell'"
+347,Hello App Inventor!,287,1645,UNPUBLISH,"'Paula Beer', 'Carl Simmons'"
+348,Ember.js in Action,287,2014,PUBLISH,'Joachim Haagen Skeie'
+349,Netty in Action,287,1645,UNPUBLISH,"'Norman Maurer', 'Courtney Robinson'"
+350,RavenDB in Action,287,1645,UNPUBLISH,'Itamar Syn-Hershko'
+351,OCP Java SE 7 Programmer II Certification Guide,287,1645,UNPUBLISH,'Mala Gupta'
+352,Backbone.js in Action,287,1645,UNPUBLISH,"'Samuel M. Breed', 'Cole Krumbholz', '', 'Phillip Whisenhunt'"
+353,"Clojure in Action, Second Edition",287,1645,UNPUBLISH,'Amit Rathore'
+354,Practical Data Science with R,287,2014,PUBLISH,"'Nina Zumel', 'John Mount'"
+355,Secrets of the JavaScript Ninja pBook upgrade,287,1645,PUBLISH,unknown
+356,ArcGIS Web Development,287,1645,UNPUBLISH,'Rene Rubalcava'
+357,Elasticsearch in Action,287,1645,UNPUBLISH,"'Radu Gheorghe', 'Matthew Lee Hinman'"
+358,Learn SCCM 2012 in a Month of Lunches,287,1645,UNPUBLISH,'James Bannan'
+359,Programming for Musicians and Digital Artists,287,1645,UNPUBLISH,"'Ajay Kapur', 'Perry Cook', 'Spencer Salazar', '', 'Ge Wang'"
+360,BDD in Action,287,1645,UNPUBLISH,'John F. Smart'
+361,Windows Phone 8 in Action,287,2013,PUBLISH,"'Timothy Binkley-Jones', 'Massimo Perga', 'Michael Sync', 'Adam Benoit'"
+362,Titanium Alloy in Action,287,1645,UNPUBLISH,'Ricardo Alcocer'
+363,Giraph in Action,287,1645,UNPUBLISH,"'Claudio Martella', 'Roman Shaposhnik', '', 'Dionysios Logothetis'"
+364,"The Well-Grounded Rubyist, Second Edition",287,2014,PUBLISH,'David A. Black'
+365,Go in Action,287,1645,UNPUBLISH,"'Brian Ketelsen', 'Erik St. Martin', '', 'William Kennedy'"
+366,The Programmer's Guide to Apache Thrift ,287,1645,UNPUBLISH,'Randy Abernethy'
+367,Grokking Functional Programming,287,1645,UNPUBLISH,'Aslam Khan'
+368,CORS in Action,287,1645,UNPUBLISH,'Monsur Hossain'
+369,Reactive Design Patterns,287,1645,UNPUBLISH,"'Roland Kuhn', 'Jamie Allen'"
+370,Storm Applied,287,1645,UNPUBLISH,"'Sean Allen', 'Peter Pathirana', '', 'Matthew Jankowski'"
+371,Real-World Machine Learning,287,1645,UNPUBLISH,"'Henrik Brink', 'Joseph Richards'"
+372,jQuery UI in Action,287,1645,UNPUBLISH,'Theodore J. (T.J.) VanToll III'
+373,Web Components in Action,287,1645,UNPUBLISH,'Chris Buckett'
+374,JavaScript Application Design,287,1645,UNPUBLISH,'Nicolas G. Bevacqua'
+375,Git in Practice,287,1645,UNPUBLISH,'Mike McQuaid'
+376,Impala in Action,287,1645,UNPUBLISH,"'Richard L. Saltzer', 'Istvan Szegedi'"
+377,Java 8 in Action,287,1645,UNPUBLISH,"'Raoul-Gabriel Urma', 'Mario Fusco', '', 'Alan Mycroft'"
+378,Elixir in Action,287,1645,UNPUBLISH,'Saša Juric´'
+379,"MongoDB in Action, Second Edition",287,1645,UNPUBLISH,"'Kyle Banker', 'Peter Bakkum', 'Tim Hawkins', 'Shaun Verch', '', 'Douglas Garrett'"
+380,"Getting MEAN with Mongo, Express, Angular, and Node",287,1645,UNPUBLISH,'Simon Holmes'
+381,"jQuery in Action, Third Edition",287,1645,UNPUBLISH,"'Bear Bibeault', 'Yehuda Katz', '', 'Aurelio De Rosa'"
+382,D3.js in Action,287,1645,UNPUBLISH,'Elijah Meeks'
+383,Learn SQL Server Administration in a Month of Lunches,287,2014,PUBLISH,'Don Jones'
+384,Geoprocessing with Python,287,1645,UNPUBLISH,'Chris Garrard'
+385,Barcodes with iOS,287,1645,UNPUBLISH,'Oliver Drobnik'
+386,Chef in Action,287,1645,UNPUBLISH,'Dimitri Aivaliotis'
+387,"Hadoop in Practice, Second Edition",287,1645,UNPUBLISH,'Alex Holmes'
+388,Oculus Rift in Action,287,1645,UNPUBLISH,"'Bradley Austin Davis', 'Karen Bryla', '', 'Alex Benton'"
+389,OpenStack in Action,287,1645,UNPUBLISH,'Cody Bumgardner'
+390,"PowerShell in Depth, Second Edition",287,1645,UNPUBLISH,"'Don Jones', 'Jeffery Hicks', '', 'Richard Siddaway'"
+391,Practical Probabilistic Programming,287,1645,UNPUBLISH,'Avi Pfeffer'
+392,Unity in Action,287,1645,UNPUBLISH,'Joseph Hocking'
+393,Express.js in Action,287,1645,UNPUBLISH,'Evan M. Hahn'
+394,Learn Git in a Month of Lunches,287,1645,UNPUBLISH,'Rick Umali'
+395,Understanding SPAs,287,1645,UNPUBLISH,"'Emmit A. Scott', 'Jr.'"
+396,XSLT Quickly,320,2001,PUBLISH,unknown
+397,Windows Forms Programming with C#,752,2002,PUBLISH,unknown
+398,Windows Forms in Action,950,2006,PUBLISH,unknown
+399,Event Processing in Action,384,2010,PUBLISH,unknown
+400,The Well-Grounded Java Developer,287,2012,PUBLISH,unknown
+401,Objective-C Fundamentals,355,2011,PUBLISH,unknown
+402,ADO.NET Programming,592,2002,PUBLISH,unknown
+403,WPF in Action with Visual Studio 2008,520,2008,PUBLISH,unknown
+404,Location-Aware Applications,320,2011,PUBLISH,unknown
+405,"Web Development with JavaServer Pages, Second Edition",800,2001,PUBLISH,unknown
+406,IntelliJ IDEA in Action,450,2006,PUBLISH,unknown
+407,Spring Integration in Action,400,2012,PUBLISH,unknown
+408,The Joy of Clojure,360,2011,PUBLISH,unknown
+409,Dynamic WAP Application Development,888,2002,PUBLISH,unknown
+410,IronPython in Action,496,2009,PUBLISH,unknown
+411,Art of Java Web Development,624,2003,PUBLISH,unknown
+412,Java Reflection in Action,300,2004,PUBLISH,unknown
+413,Programming Windows Server 2003,328,2003,PUBLISH,unknown
+414,Struts Recipes,520,2004,PUBLISH,unknown
+415,Hello! iOS Development,287,2013,PUBLISH,unknown
+416,Jess in Action,480,2003,PUBLISH,unknown
+417,Remote LAN Access,300,1996,PUBLISH,unknown
+418,J2EE and XML Development,304,2002,PUBLISH,unknown
+419,Eclipse in Action,416,2003,PUBLISH,unknown
+420,ASP.NET AJAX in Action,570,2007,PUBLISH,unknown
+421,Ext JS in Action,425,2010,PUBLISH,unknown
+422,Sencha Touch in Action,375,2013,PUBLISH,unknown
+423,DSLs in Action,376,2010,PUBLISH,unknown
+424,Database Programming for Handheld Devices,287,2000,PUBLISH,unknown
+425,Jakarta Commons Online Bookshelf,402,2005,PUBLISH,unknown
+426,Browsing with HttpClient,287,2005,PUBLISH,unknown
+427,Codec: Encoders and Decoders,287,2005,PUBLISH,unknown
