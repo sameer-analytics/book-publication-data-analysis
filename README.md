@@ -11,7 +11,7 @@ Each folder serves a specific purpose to present and analyze the book publicatio
 ## Folder Structure  
 
 ### 1.book publication analysis  portfolio 
-This folder contains curated content for showcasing the analysis of book publication data. It highlights key insights and visualizations derived from the dataset.
+This folder contains curated content for showcasing the analysis of book publication data. It highlights key insights and visualizations derived from the json data API.
 
 - **Contents:**  
   - **01_data:**  
